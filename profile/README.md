@@ -2,10 +2,26 @@
 
 
 
-**Welcome to Koujilab!**
+**Koujilabへようこそ**
+ほとんどプライベートリポジトリなんで許してください。
+Discord：https://discord.gg/THcd5ZjhCv
 
-🌈 We are looking for competent personnel. If interested, please contact QVC Fukushima #7777.
+## AutoPublisher V1公開
 
-The few repositories are mostly private.
-
-https://discord.gg/THcd5ZjhCv
+```
+･･･ヨシ！
+　　　 ∧　　/ヽ
+　　　/／￣￣＼|
+　　 ∠＿╋＿＿〉
+　　/　①八①　ヽ ＿
+　 工ﾆf(_人_)ｴ二|′)ヽ
+　　＼ヽヽノノ ノ ヘ |
+⊂⌒)_＞―――′イ (＿)
+　`ー､_ノ/￣ヽ　｜
+　　 ＿|｜　 |　｜
+　　(　 人＿ノ　Λ
+　　 ＼ス￣￣ﾚ-Λ ＼
+　　(￣　)　/ /　＼ﾉ＼
+　　 ￣￣　(　ヽ　 ＼_)
+　　　　　　＼ノ
+```
